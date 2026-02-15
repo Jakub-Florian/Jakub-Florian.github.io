@@ -4,7 +4,7 @@ email:       your_email@example.com
 author:      Jakub Florian
 description: "Wizytówka Copywritera"
 baseurl:     ""
-url:         "https://jakub-florian.github.io/"
+url:         "https://jakub-florian.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
