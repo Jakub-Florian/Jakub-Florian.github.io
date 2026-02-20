@@ -9,6 +9,8 @@ date_format: "%b %-d, %Y"
 header_pages:
  - notatki.md
 
+avatar: "/assets/img/awatar.png"
+
 # Social icons
 github_username: "Jakub-Florian"
 
