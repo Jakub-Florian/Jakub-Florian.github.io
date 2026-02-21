@@ -6,7 +6,8 @@ description: "Copywriter"
 baseurl:     ""
 url:         "https://jakub-florian.github.io"
 date_format: "%b %-d, %Y"
-header_pages: []
+header_pages: 
+  - notatki.md
 
 
 avatar: "/assets/img/awatar.png"
