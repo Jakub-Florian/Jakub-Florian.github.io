@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "https://jakub-florian.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - notatki.md
+
 
 avatar: "/assets/img/awatar.png"
 
@@ -23,6 +23,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
